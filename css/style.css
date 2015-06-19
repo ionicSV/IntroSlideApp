@@ -1,0 +1,70 @@
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:800);
+.slider{
+height:100%;
+text-align: center;
+
+}
+
+.scroll{
+height:100%
+
+
+}
+
+.color-one{
+
+	background:#fff;
+	width: 100%;
+	height:100%;
+}
+
+.color-two{
+background-color: #4078C0;
+text-align: center;
+color: #FFF;
+margin-top: -1px;
+position: relative;
+
+	width: 100%;
+	height:100%;
+}
+.color-ion{
+
+	background:#34D05E;
+	width: 100%;
+	height:100%;
+}
+
+.imgdiv{
+padding: 2%;	
+top:10%;
+
+
+}
+.ion-social-angular-outline{
+font-size: 200px;
+
+}
+
+.ion-social-reddit-outline{
+
+font-size: 150px;
+
+
+}
+.socialShare{
+background-color: #338EAD;
+
+}
+
+.ion-android-happy{
+	font-size: 200px;
+}
+.social{
+	font-size:50px;
+}
+
+a{
+	color:black; 
+}

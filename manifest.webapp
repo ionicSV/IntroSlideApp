@@ -1,0 +1,9 @@
+{
+  "name": "Ionic IntroApp",
+  "description": "Slide intro demo",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Eduardo Gomez Valencia"
+  },
+  "default_locale": "es"
+}
